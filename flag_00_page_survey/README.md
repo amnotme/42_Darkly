@@ -1,5 +1,5 @@
 ### Data Validation Vulnerability
-##### [page_survey]('http://192.168.56.101/?page=survey')
+##### [page_survey](http://192.168.56.101/?page=survey)
 
 ###### Using JQuery to make a POST request and inject to page
 
